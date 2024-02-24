@@ -13,7 +13,8 @@ $ npm install
 $ npm run dev
 ````
 <h3><strong>Para ver o formulário de inscrição por favor clique no botão "Começar" nos cards de Cursos populares</strong></h3>
------
+<h3><strong>Para acessar o projeto por favor <a href="https://meshi-gamma.vercel.app/">clique aqui</a> </strong></h3>
+
 
 <p align="center">
   <a href="https://skillicons.dev">
