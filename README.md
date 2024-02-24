@@ -1,8 +1,22 @@
-# React + Vite
+# Landing page para cursos online 📑
+
+### Frontend
+
+```bash
+# download the project and go to it's directory
+$ cd frontend
+
+# install dependencies
+$ npm install
+
+# server with changes watcher
+$ npm run dev
+````
+-----
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,git" />
+    <img src="https://skillicons.dev/icons?i=js,react,git,figma" />
   </a>
 </p>
 <p align="center">Made with ❤️ by Guilherme Vaz 👋🏽 Get in touch!</p>
