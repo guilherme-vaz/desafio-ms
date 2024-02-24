@@ -13,8 +13,8 @@ $ npm install
 $ npm run dev
 ````
 <h3><strong>Para ver o formulário de inscrição por favor clique no botão "Começar" nos cards de Cursos populares</strong></h3>
-<h3><strong>Para acessar o projeto online por favor <a href="https://meshi-gamma.vercel.app/">clique aqui</a> </strong></h3>
-<h3><strong>Para acessar o design do projeto por favor <a href="https://www.figma.com/file/I6SWggmY6MmXd5DQd23Kvx/Landing-Page?type=design&node-id=11-3442&mode=design">clique aqui</a> </strong></h3>
+<h3><strong>Para acessar o projeto online por favor <a href="https://meshi-gamma.vercel.app/" target="_blank">clique aqui</a> </strong></h3>
+<h3><strong>Para acessar o design do projeto por favor <a href="https://www.figma.com/file/I6SWggmY6MmXd5DQd23Kvx/Landing-Page?type=design&node-id=11-3442&mode=design" target="_blank">clique aqui</a> </strong></h3>
 
 
 <p align="center">
