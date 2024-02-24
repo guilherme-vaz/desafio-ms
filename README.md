@@ -12,6 +12,7 @@ $ npm install
 # server with changes watcher
 $ npm run dev
 ````
+<h3><strong>Para ver o formulário de inscrição por favor clique no botão "Começar" nos cards de Cursos populares</strong></h3>
 -----
 
 <p align="center">
